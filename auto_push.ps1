@@ -1,7 +1,7 @@
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 # 设置日志文件路径
-$logFile = "D:\ALLINONE\klara-notes\auto_push_log.txt"
+$logFile = "D:\ALLINONE\klara-notes\logs\auto_push_log.txt"
 
 # 写入日志的函数
 function Write-Log {
@@ -13,7 +13,7 @@ function Write-Log {
 }
 
 # 启动日志记录
-Write-Log "Start Excuting your task -- update notes :$(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+Write-Log "Start Excuting your task -- update notes"
 
 # 设置 Git 仓库路径
 $repoPath = "D:\ALLINONE\klara-notes"
