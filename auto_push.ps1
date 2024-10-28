@@ -1,3 +1,5 @@
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+
 # 设置 Git 仓库路径
 $repoPath = "D:\ALLINONE\klara-notes"
 
