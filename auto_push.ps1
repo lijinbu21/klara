@@ -20,7 +20,7 @@ if ($changes) {
     # 推送到远程仓库
     git push origin main
 
-    Write-Output "更改已推送到 GitHub。"
+    Write-Output "OK, push to GitHub"
 } else {
-    Write-Output "没有检测到更改，不需要更新。"
+    Write-Output "Nothing new need to be pushed"
 }
