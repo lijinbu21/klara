@@ -1,12 +1,12 @@
 - <!-- _sidebar.md -->
-  - [首页](/)
-  - [文档总览](docs/overview.md)
-  - [指南](guide.md)
-  - [教程](api.md)
-  - 分类一
-    - [简介](docs/category1/intro.md)
-    - [详情](docs/category1/details.md)
-  - 分类二
-    - [指南](docs/category2/guide.md)
-    - [教程](docs/category2/tutorial.md)
+  
+- [首页](/)
+- [文档总览](docs/overview.md)
+- 分类一
+    - [简介](docs/学到的东西/intro.md)
+- 分类二
+    - [简介](docs/学校相关/intro.md)
+- 分类三
+	- [简介](docs/我的生活/intro.md)  
   - [关于我](about.md)
+
