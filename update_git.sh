@@ -20,7 +20,7 @@ else
   git add .
 
   # 提交更改，使用当前日期和时间作为提交信息
-  git commit -m "Auto-update: $CURRENT_TIME"
+  git commit -m "Auto-update from mac: $CURRENT_TIME"
 
   # 推送到远程仓库
   git push origin main
