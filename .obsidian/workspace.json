@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/我的生活/目的地很明确所以有动力.md",
+                "file": "docs/学到的东西/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "目的地很明确所以有动力"
+              "title": "intro"
             }
           }
         ]
@@ -162,11 +162,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2081d2e08628c673",
+  "active": "a57abf03a1d30650",
   "lastOpenFiles": [
-    "docs/我的生活/记忆.md",
-    "docs/我的生活/目的地很明确所以有动力.md",
+    "docs/学到的东西/macos安装homebrew.md",
     "docs/我的生活/intro.md",
+    "macos安装homebrew.md",
+    "docs/我的生活/目的地很明确所以有动力.md",
+    "docs/我的生活/记忆.md",
+    "about.md",
+    "guide.md",
+    "api.md",
     "docs/学校相关/intro.md",
     "(docs/学校相关/近期待办.md",
     "(docs/学校相关/论文资料.md",
@@ -178,10 +183,7 @@
     "docs/overview.md",
     "docs/学校相关/论文资料.md",
     "docs/学到的东西/静态网站部署.md",
-    "about.md",
-    "guide.md",
     "README.md",
-    "api.md",
     "_navbar.md",
     "docs/images/1.png",
     "docs/images/2.png"
