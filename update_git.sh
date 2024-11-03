@@ -4,7 +4,7 @@
 REPO_PATH="/Users/klara/Documents/project/klara-notes"
 
 # 日志文件路径
-LOG_FILE="$REPO_PATH/logs/update.log"
+LOG_FILE="$REPO_PATH/logs/log.txt"
 
 # 当前日期和时间
 CURRENT_TIME=$(date +'%Y-%m-%d %H:%M:%S')
