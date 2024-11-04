@@ -2,5 +2,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "docs/images",
   "newLinkFormat": "absolute",
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }
