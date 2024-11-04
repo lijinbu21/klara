@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "docs/images"
+  "attachmentFolderPath": "docs/images",
+  "newLinkFormat": "absolute",
+  "promptDelete": false
 }
