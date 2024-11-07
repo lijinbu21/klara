@@ -4,3 +4,5 @@
 	`git rm -r --cached logs/`
 3. 提交更改 `git commit -m ""`
 4. 推送更改 `git push`
+
+常见的处理情况是，分别从两个分支上传更新，同步仓库，时常会有冲突。
